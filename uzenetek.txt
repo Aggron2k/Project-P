@@ -1,0 +1,9 @@
+a:5:{s:6:"felado";s:8:"aggron2k";s:10:"feladoszin";s:7:"#4481eb";s:7:"cimzett";s:7:"sviktor";s:6:"uzenet";s:39:"Ne légy már ilyen csöndes mindig! :c";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:6:"nandee";s:10:"feladoszin";s:7:"#580a63";s:7:"cimzett";s:6:"nandee";s:6:"uzenet";s:4:"SZIA";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:12:"lolcosplays5";s:10:"feladoszin";s:7:"#8a8a8a";s:7:"cimzett";s:8:"aggron2k";s:6:"uzenet";s:7:"MIAAUUU";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:12:"lolcosplays5";s:10:"feladoszin";s:7:"#8a8a8a";s:7:"cimzett";s:8:"aggron2k";s:6:"uzenet";s:20:"MIAAAAAAUUUUUUUUUUUU";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:8:"aggron2k";s:10:"feladoszin";s:7:"#4481eb";s:7:"cimzett";s:12:"lolcosplays5";s:6:"uzenet";s:31:"Ne nyavogj mar ennyit koszonom!";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:8:"aggron2k";s:10:"feladoszin";s:7:"#4481eb";s:7:"cimzett";s:8:"aggron2k";s:6:"uzenet";s:8:"SZIA ÉN";s:5:"datum";s:10:"2022.04.16";}
+a:5:{s:6:"felado";s:8:"aggron2k";s:10:"feladoszin";s:7:"#4481eb";s:7:"cimzett";s:8:"norika22";s:6:"uzenet";s:38:"Szia Nóri! Mi a pálya, foci pálya? ";s:5:"datum";s:10:"2022.04.17";}
+a:5:{s:6:"felado";s:8:"norika22";s:10:"feladoszin";s:7:"#c1761f";s:7:"cimzett";s:8:"aggron2k";s:6:"uzenet";s:29:"Szia! Semmi különös veled?";s:5:"datum";s:10:"2022.04.17";}
+a:5:{s:6:"felado";s:11:"felhasznalo";s:10:"feladoszin";s:7:"#000000";s:7:"cimzett";s:8:"norika22";s:6:"uzenet";s:16:"A pizza finom C:";s:5:"datum";s:10:"2022.04.17";}
